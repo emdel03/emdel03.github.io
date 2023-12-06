@@ -115,7 +115,6 @@ font-family: 'Quattrocento';
   }
 
 footer div {
-footer div {
   height: 100%;
   font-family: 'Fanwood Text', serif;
   font-size: 14px;
@@ -123,7 +122,7 @@ footer div {
   align-content: center;
   padding: 10px 20px;
   color: rgba(255, 255, 255, 0.5);
-}}
+}
 
 @media all and (max-width:700px) {
   main {
